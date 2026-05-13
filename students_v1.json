@@ -11,7 +11,7 @@
     {
         "id": "4c7b4c43-c863-4855-abc0-3657c078ce23",
         "name": "Mark Smith",
-        "date_of_birth": "1996-02-10",
+        "date_of_birth": "2010-02-10",
         "GPA": "2.5",
         "course": null,
         "department": "Science and Engineering",
@@ -20,7 +20,7 @@
     {
         "id": "5cd9ad59-fcf1-462c-8863-282a9fb693e4",
         "name": "Marissa Barker",
-        "date_of_birth": "1996-10-01",
+        "date_of_birth": "2010-10-01",
         "GPA": "3.5",
         "course": "Biology",
         "department": "Life Sciences",
